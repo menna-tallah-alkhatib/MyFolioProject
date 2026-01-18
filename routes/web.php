@@ -11,7 +11,7 @@ use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\WorkerProfileController;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
-
+// Route
 Route::get('/', function () {
     // If user is logged in, redirect it to correct view
     return AuthHelper::redirectUserByRole(Auth::user());
