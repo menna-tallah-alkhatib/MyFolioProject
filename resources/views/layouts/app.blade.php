@@ -59,7 +59,7 @@
         <!-- Page Footer -->
         <footer>
             <div class="mx-auto p-3 border-t border-gray-200 text-sm text-center">
-                <p style="color: #3cc968">© 2026 All rights reserved — <span class="font-bold">MyFolio</span></p>
+                <p style="color: #0d9488">© 2026 All rights reserved — <span class="font-bold">MyFolio</span></p>
             </div>
         </footer>
     </div>
