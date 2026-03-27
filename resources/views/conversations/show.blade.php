@@ -1,7 +1,6 @@
 <x-app-layout>
     <div class="max-w-4xl mx-auto p-6">
         <div class="bg-white rounded-xl shadow-md flex flex-col h-[80vh]">
- <!-- Header -->
             <!-- Header -->
             @php
                 $otherUser = $conversation->worker_id === auth()->id()
